@@ -241,6 +241,7 @@ CREATE TABLE BookingDB.Bookings (
 
 ## 📝 Diagrama de entidade-relacionamento
     
+![DER](https://github.com/user-attachments/assets/8382e4b9-ccf4-4416-889b-31a4416fbabb)
 
 
 ---
